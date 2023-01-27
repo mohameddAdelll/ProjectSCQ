@@ -13,5 +13,5 @@ jobs:
     - uses: rtCamp/action-slack-notify@v2.0.0
     env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-        SLACK_USERNAME: CyberJeff 
+        SLACK_USERNAME: Mohamed 
         SLACK_CHANNEL: gh-issues
